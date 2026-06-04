@@ -1,9 +1,8 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:326CE5&height=200&section=header&text=Ko%20Ko%20Ye%20%F0%9F%91%8B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Linux%20%C2%B7%20Cloud%20%2F%20DevOps%20%C2%B7%20Maker%20%C2%B7%20Community%20Builder&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:326CE5&height=370&section=header&text=Thet%20Zin%20Soe%20%F0%9F%91%8B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=CSharp%20%C2%B7%20Asp.Net%20%2F%20PHP%20%C2%B7%20Laravel%20%2F%20Docker%20%C2%B7%20Cloud&descSize=18&descAlignY=58" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=620&lines=%F0%9F%90%A7+Linux+Administrator;%E2%98%81%EF%B8%8F+Cloud+%26+%E2%99%BE%EF%B8%8F+DevOps+Engineer;%E2%98%B8%EF%B8%8F+Kubernetes+%26+%F0%9F%90%B3+Docker;%F0%9F%A4%96+Arduino+%2C+%F0%9F%8D%93+Raspberry+Pi+%26+Open+Hardware;%F0%9F%A7%A0+Brainstorming+Host+%26+Mentor" alt="typing"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=326CE5&center=true&vCenter=true&width=620&lines=%F0%9F%90%A7+Linux+Administrator;%E2%98%81%EF%B8%8F+Cloud+%26+%E2%99%BE%EF%B8%8F+DevOps+Engineer;%E2%98%B8%EF%B8%8F+Kubernetes+%26+%F0%9F%90%B3+Docker;%F0%9F%A4%96+Arduino+%2C+%F0%9F%8D%93+Raspberry+Pi+%26+Open+Hardware;%F0%9F%A7%A0+Brainstorming+Host+%26+Mentor" alt="typing"/>
 
 <p>
   <a href="https://www.linkedin.com/in/kokoye2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,7 +19,6 @@
 
 </div>
 
-<!-- ===================== ABOUT ===================== -->
 ## 🙋 About
 
 🐧 Linux Administrator & ☁️ Cloud / ♾️ DevOps Engineer focused on ☸️ Kubernetes & 🐳 Docker. Hardcore 🐚 Bash fan, tinkering with 🤖 Arduino, 🍓 Raspberry Pi, 🔓 OpenWRT and 🛠️ Open Hardware R&D. Interested in 🤖 OpenAI on Raspberry Pi / Arduino with ⚡ [Tasker](https://tasker.joaoapps.com/). As a 🧠 brainstorming host and mentor, I love bouncing new ideas.
@@ -29,7 +27,6 @@
 
 **🔧 Tools I created / maintain:** Wifi-QR Creator · Myanmar Font Switcher (mfs) · Pacvim Debian package · [Dhammapada Quotes](https://play.google.com/store/apps/details?id=com.osstechsolution.dhammapada) `[WIP]` · Font Creator & Modifier
 
-<!-- ===================== COMMUNITIES ===================== -->
 ## 🚀 Building &amp; Communities
 
 | | Project | Role / What it is |
@@ -52,7 +49,6 @@
 | 🌟 | [**Ubuntu Official Member**](https://launchpad.net/~kokoye2007) | Recognized Ubuntu Member. |
 | 📜 | **LoCo Research Committee** | Local Communities Research Committee — first-ever member (ex). |
 
-<!-- ===================== DISTROS ===================== -->
 ## 💿 Distros I Run
 
 <div align="center">
@@ -86,7 +82,6 @@
 
 </div>
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <details open>
@@ -169,7 +164,6 @@
 </div>
 </details>
 
-<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -193,7 +187,7 @@
 
 Forked from [ZYL](https://github.com/zawyelwin/zawyelwin/) · Made with 🐚 Bash spirit
 
-</div>
+</div> -->
 
 <!-- Ref:
 Emoji: https://emojipedia.org · https://bartwullems.blogspot.com/2020/08/azure-devops-github-emoji.html
