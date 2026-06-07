@@ -2,19 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:326CE5&height=370&section=header&text=Thet%20Zin%20Soe%20%F0%9F%91%8B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Laravel%20%C2%B7%20.NET%20%C2%B7%20APIs%20%C2%B7%20Cloud&descSize=18&descAlignY=58" alt="header"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/kokoye2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/kokoye2007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://burma.social/@kokoye2007"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-  <a href="https://kokoye2007.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-</p>
-
-<a href="https://kokoye2007.github.io/">🌐 Site</a> &nbsp;·&nbsp;
-<a href="https://kokoye2007.github.io/project/">📂 Projects</a> &nbsp;·&nbsp;
-<a href="https://kokoye2007.github.io/cv/">📜 CV</a>
-
-<img src="https://komarev.com/ghpvc/?username=kokoye2007&style=for-the-badge&color=00979D" alt="profile views"/>
-
 </div>
 
 ## 🙋 About
@@ -95,23 +82,6 @@ Open to connecting with fellow engineers, tech leaders, and innovators pushing t
 
 </div>
 </details>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kokoye2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kokoye2007&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoye2007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kokoye2007&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies"/>
-
-</div>
 
 ---
 
