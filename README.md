@@ -21,11 +21,11 @@ Open to connecting with fellow engineers, tech leaders, and innovators pushing t
 <br/>
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 <br/>
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=apidoc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -86,7 +86,4 @@ Open to connecting with fellow engineers, tech leaders, and innovators pushing t
 ---
 
 <div align="center">
-
-Forked from [ZYL](https://github.com/zawyelwin/zawyelwin/) · Made with 🐚 Bash spirit
-
 </div>
